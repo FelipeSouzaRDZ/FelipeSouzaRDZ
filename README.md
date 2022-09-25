@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FelipeSouzaRDZ
+- 👋 Hi, I’m Felipe Souza
 - 👀 I'm interested in Neuroscience, Machine Learning, Mathematics, Biology and Data Science.
 - 🌱 I'm currently learning Neuroscience, Mathematics and Data Analysis.
 - 💞️ I am currently working on projects at the Biosciences Institute of the University of São Paulo (USP).
