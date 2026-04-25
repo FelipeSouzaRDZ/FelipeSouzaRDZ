@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Felipe Souza
+# Hi, I’m Felipe Souza
 
-🎓 MSc student in Physiology (Neuroscience) at the Biosciences Institute, University of São Paulo (USP)
+MSc student in Physiology (Neuroscience) at the Biosciences Institute, University of São Paulo (USP)
 
 I work at the intersection of **Neuroscience, Machine Learning, and Applied Mathematics**, focusing on understanding complex biological systems through computational and data-driven approaches.
 
 ---
 
-## 🧠 Background
+## Background
 
 * Technical degree in **Electronics**
 * BSc in **Applied and Computational Mathematics** (with emphasis in Biological Sciences)
@@ -16,7 +16,7 @@ This interdisciplinary background allows me to approach biological problems with
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 * Computational Neuroscience
 * Machine Learning & Data Science
@@ -25,7 +25,7 @@ This interdisciplinary background allows me to approach biological problems with
 
 ---
 
-## 🌱 Currently
+## Currently
 
 I am currently deepening my knowledge in:
 
@@ -35,7 +35,7 @@ I am currently deepening my knowledge in:
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 I’m interested in collaborating on projects involving:
 
